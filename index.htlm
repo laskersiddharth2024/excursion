@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Excursion</title>
+  <link rel="stylesheet" href="resources/css/style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Excursion</h1>
+    <a href="#start">Start Exploring</a>
+  </header>
+
+  <!-- Video Section -->
+  <section>
+    <video controls autoplay muted loop width="100%">
+      <source src="resources/videos/stock-video.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </section>
+
+  <!-- Supporting Text -->
+  <section>
+    <h2>Your Journey Begins Now</h2>
+    <p>Discover breathtaking locations, immersive experiences, and travel smarter with Excursion.</p>
+  </section>
+
+  <!-- Landscape Image -->
+  <section>
+    <p>
+      <img src="resources/images/landscape.webp" alt="Scenic landscape" />
+    </p>
+  </section>
+
+  <!-- Cellphone Icon -->
+  <section>
+    <p>
+      <img src="resources/images/cellphone-icon.webp" alt="Mobile app icon" />
+    </p>
+  </section>
+
+</body>
+</html>
